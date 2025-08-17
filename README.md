@@ -9,7 +9,7 @@ It showcases my work, skills, and projects.
 
 Follow these steps to run the project on your local machine:
 
-### 1. Clone the repository
+### 1. Follow the steps to run the project
 ```bash
 git clone https://github.com/your-username/your-portfolio.git
 cd your-portfolio
